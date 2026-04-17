@@ -6,12 +6,13 @@ ejercicios y esketches del curso
 **negrita**
 *itálica*
 
-- esto
-- es una
-- lista
+- esto🫁
+- es una🦶
+- lista😽
 
-![imagen](kirby/9014b6f58cfa76bf7dfebc6583c33f48.jpg)
-![imagen](kirby/kirby.jpeg)
 [link](https://google.com)
+
+![imagen](kirby/kirby.jpeg)
+
 
 ![image](https://i.pinimg.com/736x/90/14/b6/9014b6f58cfa76bf7dfebc6583c33f48.jpg)
